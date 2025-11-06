@@ -1,8 +1,3 @@
-Tamam TkMatE, sana **tek bakışta tüm konuları gösterecek**, **çok temiz ve okunabilir bir Mind-Map** hazırlıyorum.
-Bunu **Obsidian’a, Word’e, PDF’e veya Notion’a** direkt yapıştırabilirsin.
-
----
-
 # 🧠 **Java OOP + SOLID + UML Mind Map**
 
 ```
